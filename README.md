@@ -34,10 +34,6 @@ Git & GitHub
 
 📦 Installation
 
-git clone https://github.com/BaderAlt/lemon-booking-project.git
-
-cd lemon-booking-project
-
 pip install -r requirements.txt
 
 python manage.py migrate
